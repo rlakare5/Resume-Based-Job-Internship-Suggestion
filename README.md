@@ -1,5 +1,8 @@
-
 # Resume-Based-Job-Internship-Suggestion
+
+Step 1: Install Required Libraries
+!pip install streamlit PyPDF2 openai pyngrok
+
 Project Overview
 This project is a Python and Streamlit application that suggests relevant jobs and internships based on a user’s resume. It leverages Large Language Models (LLMs) to analyze a resume’s content—such as skills, education, and experience—and recommends suitable opportunities with brief explanations.
 
