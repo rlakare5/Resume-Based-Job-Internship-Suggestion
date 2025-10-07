@@ -1,6 +1,7 @@
 # Resume-Based-Job-Internship-Suggestion
 
 Step 1: Install Required Libraries
+
 !pip install streamlit PyPDF2 openai pyngrok
 
 Project Overview
